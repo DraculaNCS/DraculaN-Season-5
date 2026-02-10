@@ -40,7 +40,7 @@ Sign-ups close automatically on February 10, 2026 at 23:59 (Bucharest time).
 ### **Prize Pool**
 
 The prize pool is crowdfunded by team entry fees and scales with the number of registered teams.  
-24 teams → €15000 total prize pool
+24 teams → $15000 total prize pool
 
 ## **Registration & Eligibility**
 
